@@ -1,0 +1,23 @@
+@media only screen and (min-width: 1004px) {
+    .navbar-text {
+        margin-left: 80%;
+    }
+
+    
+.dropdown-menu[data-bs-popper] {
+    top: 100%;
+    margin-top: 0.125rem;
+    margin-left: 80%;
+}
+
+#v-pills-settings .table {
+    width: 250%;
+    
+}
+
+#v-pills-profile .table {
+    margin-left: 230px;
+}
+
+}
+
